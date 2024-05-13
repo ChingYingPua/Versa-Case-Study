@@ -1,5 +1,4 @@
-# Versa-Case-Study
-# Big Bang Generator
+# Versa-Case-Study (Big Bang Generator)
 
 This script generates an array of numbers from 1 to 100 with specific replacements based on certain conditions. The conditions are:
 - Replace numbers divisible by 3 with "BIG"
